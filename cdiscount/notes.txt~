@@ -1,0 +1,2 @@
+1- how to slice up big data into train and validation sets
+2- test another model on train_example before running it on all data
